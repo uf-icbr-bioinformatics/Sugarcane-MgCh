@@ -16,7 +16,7 @@ Where options are:
 
 Option | Description
 -------|------------
-  -o O | Use O as base name for output files (default: '{}').
+  -o O | Use O as base name for output files (default: 'results').
   -p   | Output percentages where appropriate instead of counts.
 
 Fastq files can be compressed with gzip. 
